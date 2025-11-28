@@ -1,0 +1,4 @@
+# Python cache and editor swap files
+__pycache__/
+*.pyc
+*.swp
