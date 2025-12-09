@@ -32,4 +32,3 @@ class Library:
             else:
                 print(f"Book: {book.title} by {book.author}")
 
-# refresh
